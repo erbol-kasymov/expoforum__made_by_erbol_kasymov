@@ -24,6 +24,10 @@ body {
     margin: 0 auto;
 }
 
+.main_bd{
+    min-width: 1250px;
+}
+
 .main {
     background-image: url(./img/bgc.jpg);
     width: 100%;
@@ -92,6 +96,15 @@ li {
     margin-left: 700px ;
     flex-wrap: wrap;
     padding-top: 304px;
+    width: 540px;
+    height: 353px;
+    /* position: absolute;
+    width: 540px;
+    height: 353px;
+    left: 975px;
+    top: 394px;
+    flex-wrap: wrap; */
+
 }
 
 .block {
